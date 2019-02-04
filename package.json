@@ -1,0 +1,26 @@
+{
+  "name": "resolve-keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "m.test index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/resolve-keys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-fei/resolve-keys/issues"
+  },
+  "homepage": "https://github.com/christian-fei/resolve-keys#readme",
+  "devDependencies": {
+    "m.test": "0.0.57"
+  },
+  "standard": {
+    "globals": ["test"]
+  }
+}
