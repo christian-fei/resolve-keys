@@ -1,6 +1,6 @@
 {
   "name": "resolve-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,8 @@
     "m.test": "0.0.57"
   },
   "standard": {
-    "globals": ["test"]
+    "globals": [
+      "test"
+    ]
   }
 }
